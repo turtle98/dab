@@ -1,5 +1,5 @@
 # DAB
-food object detection 모델 학습을 위한 repo
+food object detection 모델 학습을 위한 repo\
 받아야할 데이터 크기가 크고 모델도 gpu에서 학습해야하니까 colab에서 꼭 학습
 
 
